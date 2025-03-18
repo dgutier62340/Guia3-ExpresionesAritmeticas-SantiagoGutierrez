@@ -14,5 +14,5 @@ Programa en **Java** que convierte expresiones aritméticas de **notación infij
 ## 📥 Instalación y Uso  
 1. **Clonar el repositorio**  
    ```sh
-   git clone https://github.com/tu-usuario/evaluador-expresiones.git
+   git clone https://github.com/dgutier62340/Guia3-ExpresionesAritmeticas-SantiagoGutierrez.git
    cd evaluador-expresiones
